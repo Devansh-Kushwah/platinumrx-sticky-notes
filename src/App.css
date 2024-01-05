@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #DCB83E;
+  font-size: large;
+  font-family: cursive;
+}
+
+.sticky-note {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.3);
+}
